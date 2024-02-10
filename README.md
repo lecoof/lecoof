@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python)))
 - 📫 How to reach me text me
 - 😄 Pronouns: mate
-- ⚡ Fun fact: i'am noob))))
+- ⚡ Fun fact: i'am a noob))))
 
 <!---
 lecoof/lecoof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
